@@ -1,3 +1,5 @@
+<img src="https://github.com/PardhivA/SWE_team4/assets/94790267/309cee2d-0348-46af-b4db-a49ef6339782" width="500">
+
 ## DonationHub - Connect Donors and Receivers
 
 *DonationHub* is more than just an Android app; it's a compassionate bridge between those who want to give and those in need. This full-stack Android application brings together the power of technology and the spirit of humanity to facilitate item donations, making a positive impact on countless lives. The app is made using `React Native` framework, accompanied by `expo` functionalities and `Firebase` and `Firestore` for Backend and DataBase.
